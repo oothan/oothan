@@ -2,25 +2,19 @@
 
 A passionate **Golang Backend Developer & Blockchain Engineer** from Myanmar 🇲🇲
 
----
-
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 💡 I enjoy building backend systems and blockchain applications  
 📚 Currently learning **Ethereum & Smart Contracts**  
 📫 Reach me at: **mgoothan.psnl@gmail.com**  
 ⚡ Fun fact: I love learning new technologies and solving complex problems.
 
----
-
-## 🌐 Socials
+### 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/maung-oo-than-89b7161a3/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mgoothan.psnl@gmail.com)
 
----
-
-# 🛠 Skills & Tools
+## 🛠 Skills & Tools
 
 ![Go](https://img.shields.io/badge/Go-blue?logo=go)
 ![Ethereum](https://img.shields.io/badge/Ethereum-black?logo=ethereum)
@@ -32,39 +26,10 @@ A passionate **Golang Backend Developer & Blockchain Engineer** from Myanmar �
 ![Git](https://img.shields.io/badge/Git-red?logo=git)
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 
----
+### 📊 GitHub Stats
 
-# 🚀 Featured Projects
-
-### 🔗 EthWalletService
-Ethereum wallet backend built with Golang
-
-Features:
-- Create Ethereum wallet
-- Check ETH balance
-- ERC20 approve
-- Transfer USDT
-- CI/CD with GitHub Actions
-
----
-
-### 🔗 Go Ethereum Wallet API
-Backend API for interacting with Ethereum blockchain.
-
----
-
-# 📊 GitHub Stats
-
-![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=oothan&show_icons=true&theme=tokyonight)
-
----
-
-# 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oothan&layout=compact&theme=tokyonight)
-
----
-
-# 🐍 Contribution Graph
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<img align="left" width="415" height="165" src="https://github-readme-stats.vercel.app/api?username=oothan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="github stats"/>
+  <a href="https://github.com/oothan/oothan">
+    <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=oothan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  </a> 
+  
