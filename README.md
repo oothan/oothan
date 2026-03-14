@@ -29,7 +29,20 @@ A passionate **Golang Backend Developer & Blockchain Engineer** from Myanmar ğŸ‡
 ### ğŸ“Š GitHub Stats
 
 <img align="left" width="415" height="165" src="https://github-readme-stats.vercel.app/api?username=oothan&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats"/>
-  <a href="https://github.com/oothan/oothan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oothan&layout=compact&theme=dark" />
-</a>
+
+
+
+<img align="left" width="415" height="165" src="https://github-readme-stats.vercel.app/api?username=oothan&show_icons=true&bg_color=00000000&count_private=true" />
   
+
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=oothan&show_icons=true&theme=dark&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=oothan&show_icons=true&count_private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=oothan&show_icons=true&count_private=true" />
+</picture>
