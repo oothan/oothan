@@ -30,5 +30,5 @@ A passionate **Golang Backend Developer & Blockchain Engineer** from Myanmar ğŸ‡
 
 <img align="left" width="415" height="165" src="https://github-readme-stats-eta-eight-55.vercel.app/api?username=oothan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="github stats"/>
 <a href="https://github.com/oothan">
-  <img align="center" src="https://github-readme-stats-eta-eight-55.vercel.app/api/top-langs?username=oothan&layout=compact&count_private=true" />
+  <img align="center" src="https://github-readme-stats-eta-eight-55.vercel.app/api/top-langs?username=oothan&layout=compact&count_private=true&theme=tokyonight&hide_border=true" />
 </a>
