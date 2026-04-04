@@ -1,6 +1,6 @@
 # Hi, I'm Jay 👋
 
-A passionate **Golang Backend Developer & Blockchain Engineer** from Myanmar 🇲🇲
+A passionate **Golang Backend Engineer & Blockchain Engineer** from Myanmar 🇲🇲
 
 ### 👨‍💻 About Me
 
